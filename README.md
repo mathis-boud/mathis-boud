@@ -12,7 +12,7 @@
     • Réalisations : Développement d'un jeu de survie 3D (CARNIGHT) et d'une application éducative (SATIETY).
 
 
-## Disponible immédiatement pour des missions en CDI/CDD étudiant ou des projets collaboratifs. 🚀
+### Disponible immédiatement pour des missions en CDI/CDD étudiant ou des projets collaboratifs. 🚀
 
 <!--
 **mathis-boud/mathis-boud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
